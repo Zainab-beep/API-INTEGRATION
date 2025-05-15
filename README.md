@@ -49,3 +49,6 @@ Created using plain JavaScript and basic web technologies — no frameworks.
 
 Conclusion
 This project demonstrates how to connect to a third-party API and dynamically display data in a user-friendly way. It’s a great starting point for beginners learning how to integrate APIs and build interactive front-end applications.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/48746d94-20f6-4abc-a2f4-1ea827bd15e8)
